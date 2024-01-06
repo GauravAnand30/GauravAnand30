@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Linkdn:http://www.linkedin.com/in/gaurav41</h3>
 <p align="left">
 </p>
 
