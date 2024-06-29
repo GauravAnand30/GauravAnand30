@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gauravportfolio21.netlify.app/](https://gauravportfolio21.netlify.app/)
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/18U-77itCAcdMcCEmD3J36rOkzi8fJuAO/view?usp=sharing)
+
 
 - ⚡ Fun fact **I am Funny**
 
